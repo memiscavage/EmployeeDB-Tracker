@@ -19,7 +19,7 @@ This database holds employee information such as departments, employees first an
 The repository can be cloned to your local device and tested using Insomnia to view the employee information in the database.
 
 ## Links
-[Demo Link](https://drive.google.com/file/d/1rGOpuy_cR9TJRWvVX60n6SJGcRPzKnFG/view)
+[Demo Link]()
 
 ## Questions?
 Please feel free to message me at memiscavage@gmail.com with any questions.
