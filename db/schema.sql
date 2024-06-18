@@ -18,7 +18,7 @@ CREATE TABLE role (
 -- to pull the department id --
     FOREIGN KEY (department_id)
     REFERENCES department(id)
-)
+);
  
 -- needs id, first name, last name, role id, manager id --
 CREATE TABLE employee (
