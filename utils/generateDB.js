@@ -49,4 +49,8 @@ const db = mysql.createConnection(
     console.log(`Connected to the employee_db database.`)
   );
   
-  
+  function generateDB(data) {
+    return data.dbmenu
+  }
+
+  module.exports = generateDB
